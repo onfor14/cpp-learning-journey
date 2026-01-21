@@ -1,6 +1,15 @@
+This repository documents my journey of learning C++ from scratch.
 <br>
-This is my Git Repository where I will be sharing my C++ Journey from the start...
+## Goals
+- Build strong programming fundamentals
+- Understand memory and system-level concepts
+- Prepare for embedded and automotive software roles
 <br>
-I will be starting with the basics of it..
-
+## Structure
+- Basics
+- Functions
+- Object-Oriented Programming
+- STL
+- Memory Management
+- Multithreading (basics)
 
