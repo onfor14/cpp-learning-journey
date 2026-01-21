@@ -1,2 +1,2 @@
 # cpp-learning-journey
-This is my Git Repository where I will be sharing my C++ Journey from the start...
+This is my Git Repository
