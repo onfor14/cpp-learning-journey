@@ -27,14 +27,13 @@ int main()
     }
     //Printing Sum of First N natural numbers
     cout<<endl;
-    int n;
+    int n, sum=0;
     cout<<"Enter N: ";
     cin>>n;
     for(int i=1;i<=n;i++){
-        cout<<i;
-        if(i!=n)
-            cout<<",";
+        sum=sum+i;
     }
+    cout<<sum;
     //Multiplication Table
     cout<<endl;
     int m;
