@@ -35,7 +35,25 @@ int main(){
     }
     //Printing Sum of N natural numbers
     cout<<endl;
-    
+    int sum =0, i=1;
+    cout<<"Enter N: ";
+    cin>>n;
+    while(i<=n){
+        sum=sum+i;
+        i++;
+    }
+    cout<<sum;
+    //Printing Multiplication Table
+    cout<<endl;
+    i=1;
+    cout<<"Enter the needed Multiplication Table: ";
+    cin>>n;
+    while(i<=10){
+        cout<<i*n;
+        if(i!=n)
+            cout<<",";
+        i++;
+    }
 
 }
 
