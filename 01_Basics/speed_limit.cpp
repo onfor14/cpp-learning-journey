@@ -11,9 +11,9 @@ int main()
         if(s==0)
             break;
         else if(s<=60)
-            cout<<"Perfect Speed: 60KMPH";
+            cout<<"Safe Speed: 60KMPH";
         else if(s>60)
-            cout<<"Warning: Please Slow Down";
+            cout<<"Warning: Go Slow";
         
     }
 }
