@@ -1,4 +1,4 @@
-//Taking input array and printing it
+//Taking input array and printing it in order//
 #include<bits/stdc++.h>
 using namespace std;
 int main()
